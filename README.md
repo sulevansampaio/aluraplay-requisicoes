@@ -6,7 +6,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | -------------  | --- |
 | :sparkles: Nome        | **AluraPlay**
 | :label: Tecnologias | html, css, javascript, json, json-server
-| :rocket: URL         | https://sulevansampaio.github.io/alura-newslatter/
+| :rocket: URL         | https://sulevansampaio.github.io/aluraplay-requisicoes/
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
